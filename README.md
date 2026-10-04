@@ -43,5 +43,5 @@ End-to-end headless CMS modernization for a globally recognized corporation.
 ## 📫 Let's Connect
 
 - 🌐 **Portfolio:** [zainarshad-portfolio.vercel.app](https://zainarshad-portfolio.vercel.app/)
-- 💼 **Upwork:** [Hire me on Upwork](INSERT_YOUR_UPWORK_PROFILE_LINK_HERE)
-- 👔 **LinkedIn:** [Connect with me](INSERT_YOUR_LINKEDIN_PROFILE_LINK_HERE)
+- 💼 **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01b46164b1e29f5cef)
+- 👔 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/zain-arshad-76155a322/)
